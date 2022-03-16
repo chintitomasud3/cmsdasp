@@ -167,3 +167,4 @@ E:\Programming\cmsdasp\cmsdasp\cmsdasp\obj\Debug\netcoreapp3.1\Razor\Views\GetPa
 E:\Programming\cmsdasp\cmsdasp\cmsdasp\obj\Debug\netcoreapp3.1\Razor\Views\GetPasses\Details.cshtml.g.cs
 E:\Programming\cmsdasp\cmsdasp\cmsdasp\obj\Debug\netcoreapp3.1\Razor\Views\GetPasses\Edit.cshtml.g.cs
 E:\Programming\cmsdasp\cmsdasp\cmsdasp\obj\Debug\netcoreapp3.1\Razor\Views\GetPasses\Index.cshtml.g.cs
+E:\Programming\cmsdasp\cmsdasp\cmsdasp\obj\Debug\netcoreapp3.1\Razor\Views\GetPasses\index2.cshtml.g.cs
